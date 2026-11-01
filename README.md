@@ -1,6 +1,4 @@
 <div align="center">
-
-  ${\color{#acae83} THIS}$ ${\color{#cc7a3d} IS}$ ${\color{#c3c3c4} A}$ ${\color{#bf965e}WIP.}$
   
 ![](https://komarev.com/ghpvc/?username=TRUE-BIOGRAFT&color=bf965e&style=flat-square&label=TARGETS)
 
