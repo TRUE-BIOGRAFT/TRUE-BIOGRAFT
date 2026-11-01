@@ -1,1 +1,1 @@
-${\color{#a47c66} THIS}$ ${\color{#e7c9ad} IS}$ ${\color{#efe9e4} A}$ WIP. THIS IS NOT DONE.
+${\color{#f36b00} THIS}$ ${\color{#d06100} IS}$ ${\color{#ffb900} A}$ WIP. THIS IS NOT DONE.
